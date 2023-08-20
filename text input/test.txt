@@ -1,0 +1,4 @@
+myfist file
+This file
+
+contains three lines
